@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "webo",
+    "texture": "172150d7-211c-4292-a6cc-2c7d138c21e7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      405,
+      417
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      405,
+      417
+    ]
+  }
+}

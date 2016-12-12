@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "angry-birds1",
+    "texture": "c82b507a-f97e-43d5-913d-9b577cf3649f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      910,
+      876
+    ],
+    "offset": [
+      -20.5,
+      0
+    ],
+    "originalSize": [
+      951,
+      876
+    ]
+  }
+}

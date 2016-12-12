@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EcenarioAngry",
+    "texture": "58c9457a-21ed-4a08-8cc6-0a3d9be6f47b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      2177,
+      900
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      2177,
+      901
+    ]
+  }
+}
